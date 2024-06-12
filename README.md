@@ -19,7 +19,11 @@ I used it before applying on wanted specialities and its faculties to see where 
 bigger numbers right next to priorities - quantity of people with corresponding priority.
 General place - your probable place in the list.
 
+
 Script was also counting people that had 'Recommended' tag in the list as those who likely wil be included.
+
+
+The data was loading dynamically, so the script was scrolling the page and clicking button by itself, gathering data and then closing browser window.
 
 173.5 is rating used in the program (max is 200)
 
